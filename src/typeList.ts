@@ -29,7 +29,8 @@ const funcA = (): void => {
 // null
 let null1: null = null;
 
-// undefined
+// undefined 定義されていない
+// 追加
 let undefined1: undefined = undefined;
 
 // object
